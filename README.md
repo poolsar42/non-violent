@@ -2,6 +2,7 @@
 [Link](https://www.avogado6.com/diary2020?lightbox=dataItem-kgyq2h465)
 
 [test](https://poolsar42.github.io/tax-free/test)
+[fear](https://poolsar42.github.io/tax-free/fear)
 
 ### Деньги
 Что станет с деньгами? Они все обесценятся? Люди вернутся к золоту и серебру? Часть людей будут использовать криптовалюты? Кто эти люди? Будут разные люди. Будут и те, кто будет отстаивать права "настоящих" денег.
