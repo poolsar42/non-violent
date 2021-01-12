@@ -15,8 +15,6 @@
 
 ![Image](https://i.ytimg.com/vi/lzPbUUPutnk/maxresdefault.jpg)
 
-[main](https://poolsar42.github.io/tax-free)
-
 
 ### Что будет в самой игре?
 
@@ -58,6 +56,4 @@
 ### Паспорт
 Как люди будут иденцифицировать свою личность? Нужно ли это? Это действительно сложный вопрос, потому что потеря иденцифицирующего документа, если он нужен, может вызвать трудности. Как с ними бороться?
 
-```
-BTC: bc1qu5es4kvmr0q5h9tp6reny59h66xxj8y9xny7q8
-```
+[main](https://poolsar42.github.io/tax-free)
