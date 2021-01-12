@@ -2,6 +2,9 @@
 [Link](https://www.avogado6.com/diary2020?lightbox=dataItem-kgyq2h465)
 
 # Проект по борьбе с насилием
+[Кратко о GitHub Pages](https://poolsar42.github.io/non-violent/pages)
+[Game](https://poolsar42.github.io/non-violent/game)
+[Риски](https://poolsar42.github.io/non-violent/fear)
 
 ```
 BTC: bc1qu5es4kvmr0q5h9tp6reny59h66xxj8y9xny7q8
