@@ -5,7 +5,7 @@
 [Кратко о GitHub Pages](https://poolsar42.github.io/non-violent/pages) <br />
 [Game](https://poolsar42.github.io/non-violent/game) <br />
 [Риски](https://poolsar42.github.io/non-violent/fear) <br />
-[Блог](https://poolsar42.github.io/non-violent/blog)
+[gentle boy's blog](https://poolsar42.github.io/non-violent/blog)
 
 ```
 BTC: bc1qu5es4kvmr0q5h9tp6reny59h66xxj8y9xny7q8
