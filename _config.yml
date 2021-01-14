@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: minima
 plugins: [jekyll-youtube]
 author: emi
 email: poolsar.42@gmail.com
